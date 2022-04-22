@@ -2,7 +2,7 @@ module.exports = {
   title: "假城的个人博客",
   description: "My tech blog",
   port: "8080",
-  dest: "./display", //目录生成到根目录
+  dest: "./folder", //目录生成到根目录
   head: [
     ["link", { rel: "icon", href: "/img/YY.png" }],
     ["link", { rel: "stylesheet", href: "/css/style.css" }],
